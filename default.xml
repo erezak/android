@@ -19,7 +19,7 @@
            fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/jellybean"
-           remote="CyanogenMod"
+           remote="github"
            sync-c="true"
            sync-j="4" />
 
