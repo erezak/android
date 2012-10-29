@@ -346,11 +346,11 @@
   <project name="CyanogenMod/android_kernel_samsung_tuna" path="kernel/samsung/tuna" revision="jb" />
   <project remote="erezak" name="erezak/android_device_samsung_tuna" path="device/samsung/tuna" revision="jellybean" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" revision="jellybean" />
-  <project name="CyanogenMod/android_device_samsung_p1" path="device/samsung/p1" revision="jellybean" />
+  <project remote="erezak" name="erezak/android_device_samsung_p1" path="device/samsung/p1" revision="jellybean" />
   <project remote="erezak" name="erezak/android_device_samsung_p1-common" path="device/samsung/p1-common" revision="jellybean" />
   <project name="CyanogenMod/android_kernel_samsung_p1" path="kernel/samsung/p1" revision="jellybean" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" revision="jellybean" />
-  <project name="CyanogenMod/android_device_samsung_i9100" path="device/samsung/i9100" revision="jellybean" />
+  <project remote="erezak" name="erezak/android_device_samsung_i9100" path="device/samsung/i9100" revision="jellybean" />
   <project remote="erezak" name="erezak/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" revision="jellybean" />
   <project name="CyanogenMod/android_kernel_samsung_smdk4210" path="kernel/samsung/smdk4210" revision="jellybean" />
   <project remote="erezak" name="erezak/android_device_samsung_i9300" path="device/samsung/i9300" revision="jellybean" />
