@@ -252,7 +252,7 @@
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
   <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
-  <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
+  <project path="packages/apps/Contacts" remote="erezak" name="erezak/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" remote="erezak" name="erezak/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
@@ -355,6 +355,7 @@
   <project remote="erezak" name="erezak/android_device_samsung_i9100" path="device/samsung/i9100" revision="jellybean" />
   <project remote="erezak" name="erezak/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" revision="jellybean" />
   <project name="CyanogenMod/android_kernel_samsung_smdk4210" path="kernel/samsung/smdk4210" revision="jellybean" />
+  <project name="CyanogenMod/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" revision="jellybean" />
   <project remote="erezak" name="erezak/android_device_samsung_i9300" path="device/samsung/i9300" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" revision="jellybean" />
   <project remote="erezak" name="erezak/android_device_samsung_d2att" path="device/samsung/d2att" revision="jellybean" />
